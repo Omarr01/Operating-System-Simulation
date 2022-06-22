@@ -1,0 +1,34 @@
+word 0  | null
+word 1  | null
+word 2  | null
+word 3  | null
+word 4  | null
+word 5  | null
+word 6  | null
+word 7  | null
+word 8  | null
+word 9  | null
+word 10 | null
+word 11 | null
+word 12 | null
+word 13 | null
+word 14 | null
+word 15 | null
+word 16 | null
+word 17 | Process ID:  1
+word 18 | Process State:  READY
+word 19 | Program Counter:  6
+word 20 | Lower Bound: 17
+word 21 | Upper Bound: 33
+word 22 | a 1
+word 23 | b 3
+word 24 | Variable null
+word 25 | Instruction 1 [semWait, userInput]
+word 26 | Instruction 2 [input]
+word 27 | Instruction 3 [assign, a, input]
+word 28 | Instruction 4 [input]
+word 29 | Instruction 5 [assign, b, input]
+word 30 | Instruction 6 [semSignal, userInput]
+word 31 | Instruction 7 [semWait, userOutput]
+word 32 | Instruction 8 [printFromTo, a, b]
+word 33 | Instruction 9 [semSignal, userOutput]
